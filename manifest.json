@@ -1,0 +1,10 @@
+{
+  "name": "¡Mi PWA!",
+  "short_name": "PWA!",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#ee0979",
+  "lang": "es-MX",
+  "description": "Testeando PWA"
+}
